@@ -1,0 +1,290 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Track 1",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTNf/lawla.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 2",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNThf/_track-%288%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 3",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTdf/_track-%287%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 4",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTJf/_track-%2861%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 5",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTFf/_track-%2860%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 6",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTBf/_track-%2859%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 7",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNDlf/_track-%2858%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 8",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNDhf/_track-%2857%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 9",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNDdf/_track-%2856%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 10",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNDZf/_track-%2854%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 11",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNDVf/_track-%2853%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 12",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNDRf/_track-%2852%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 13",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDE0NDNf/_track-%2851%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 14",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTZf/_track-%285%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 15",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDE0MzBf/_track-%2847%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 16",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDE0MjRf/_track-%2846%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 17",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDE0MThf/_track-%2845%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 18",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzOTRf/_track-%2844%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 19",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzODVf/_track-%2843%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 20",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzODRf/_track-%2842%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 21",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzODNf/_track-%2841%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 22",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzODJf/_track-%2839%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 23",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzODFf/_track-%2838%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 24",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzODBf/_track-%2837%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 25",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzlf/_track-%2835%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 26",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzhf/_track-%2833%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 27",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzdf/_track-%2832%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 28",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzZf/_track-%2831%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 29",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzVf/_track-%2830%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 30",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTVf/_track-%283%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 31",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzRf/_track-%2829%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 32",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzNf/_track-%2828%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 33",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzJf/_track-%2827%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 34",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzFf/_track-%2826%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 35",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNzBf/_track-%2825%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 36",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjlf/_track-%2823%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 37",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjhf/_track-%2820%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 38",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTRf/_track-%282%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 39",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjdf/_track-%2818%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 40",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjZf/_track-%2817%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 41",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjVf/_track-%2815%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 42",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjRf/_track-%2814%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 43",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjNf/_track-%2813%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 44",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjJf/_track-%2812%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 45",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNjBf/_track-%2811%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      },
+      {
+         "song_name":"Track 46",
+         "artist":"Messnawa",
+         "song_link":"https://od.lk/s/NzJfNDMyMDEzNTlf/_track-%2810%29.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMTk5NDZf/Mesnawa%201.png"
+      }
+   ]
+}
